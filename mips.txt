@@ -1,0 +1,28 @@
+# instructions to test jumps
+
+bne $r10, $r0, 200
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
